@@ -1,0 +1,130 @@
+﻿Type,Genetic_disease,Gene,Variation,Consanguinity,Mother_affected,Mother_Carrier,Father_affected,Father_Carrier,1st_level,2nd_level,G1,G2,G3,G4,G5,Risk
+Autosomal Recessive,Beta-thalassemia,Hbb,Homozygous,Yes,No,Yes,No,Yes,No,No,Yes,MTP,NIL,NIL,NIL,25%
+Autosomal Recessive,Beta-thalassemia,Hbb,Homozygous,Yes,No,Yes,No,Yes,No,No,Yes,No,NIL,NIL,NIL,25%
+Autosomal Recessive,Beta-thalassemia,Hbb,Homozygous,Yes,No,Yes,No,Yes,No,No,Yes,No,NIL,NIL,NIL,25%
+Autosomal Recessive,Beta-thalassemia,Hbb,Homozygous,Yes,No,Yes,No,Yes,No,No,Yes,NIL,NIL,NIL,NIL,25%
+Autosomal Recessive,Beta-thalassemia,Hbb,Homozygous,Yes,No,Yes,No,Yes,Yes,No,Yes,NIL,NIL,NIL,NIL,25%
+Autosomal Recessive,Beta-thalassemia,Hbb,Homozygous,No,No,Yes,No,Yes,No,Yes,No,Yes,Abortion,NIL,NIL,25%
+Autosomal Recessive,Beta-thalassemia,Hbb,Homozygous,No,No,Yes,No,Yes,No,Yes,No,Yes,Abortion,NIL,NIL,25%
+Autosomal Recessive,Beta-thalassemia,Hbb,Homozygous,No,No,Yes,No,Yes,No,Yes,Yes,No,NIL,NIL,NIL,25%
+Autosomal Recessive,Beta-thalassemia,Hbb,Compound Heterozygous,No,No,Yes,No,Yes,No,Yes,Yes,No,NIL,NIL,NIL,25%
+Autosomal Recessive,Beta-thalassemia,Hbb,Compound Heterozygous,No,No,Yes,No,Yes,No,Yes,Yes,No,NIL,NIL,NIL,25%
+Autosomal Recessive,Beta-thalassemia,Hbb,Compound Heterozygous,No,Yes,No,No,Yes,Yes,No,Yes,Yes,NIL,NIL,NIL,50%
+Autosomal Recessive,Beta-thalassemia,Hbb,Compound Heterozygous,No,Yes,No,No,Yes,Yes,No,Yes,Yes,NIL,NIL,NIL,50%
+Autosomal Recessive,Beta-thalassemia,Hbb,Compound Heterozygous,No,Yes,No,No,Yes,Yes,No,Yes,Yes,NIL,NIL,NIL,50%
+Autosomal Recessive,Beta-thalassemia,Hbb,Compound Heterozygous,No,Yes,No,No,Yes,Yes,No,Yes,Yes,NIL,NIL,NIL,50%
+Autosomal Recessive,Beta-thalassemia,Hbb,Compound Heterozygous,No,Yes,No,No,Yes,Yes,No,No,Yes,NIL,NIL,NIL,50%
+Autosomal Recessive,Spinal Muscular Atrophy,SMN,Homozygous,Yes,No,Yes,No,Yes,No,No,Yes,Abortion,No,MTP,NIL,25%
+Autosomal Recessive,Spinal Muscular Atrophy,SMN,Homozygous,No,No,Yes,No,Yes,No,No,Yes,Yes,MTP,No,NIL,25%
+Autosomal Recessive,Spinal Muscular Atrophy,SMN,Homozygous,No,No,Yes,No,Yes,No,No,Yes,NIL,NIL,NIL,NIL,25%
+Autosomal Recessive,Spinal Muscular Atrophy,SMN,Homozygous,No,No,Yes,No,Yes,No,No,Yes,NIL,NIL,NIL,NIL,25%
+Autosomal Recessive,Spinal Muscular Atrophy,SMN,Homozygous,No,No,Yes,No,Yes,No,No,Yes,NIL,NIL,NIL,NIL,25%
+Autosomal Recessive,Niemann-Pick,SMPD1,Homozygous,Yes,No,Yes,No,Yes,No,No,Yes,NIL,NIL,NIL,NIL,25%
+Autosomal Recessive,Niemann-Pick,SMPD1,Homozygous,Yes,No,Yes,Yes,No,No,No,Yes,NIL,NIL,NIL,NIL,50%
+Autosomal Recessive,Niemann-Pick,SMPD1,Homozygous,No,No,Yes,No,Yes,No,No,Yes,No,NIL,NIL,NIL,25%
+Autosomal Dominant,Cardiomyopathy,PSEN,Heterozygous,No,No,No,No,No,No,No,Yes,Yes,NIL,NIL,NIL,4%
+Autosomal Dominant,Cardiomyopathy,PSEN,Heterozygous,No,Yes,No ,No,No,No,No,Yes,Yes,NIL,NIL,NIL,50%
+Autosomal Dominant,Mental Retardation,PURA,Heterozygous,No,No,No,No,No,Yes,No,Yes,NIL,NIL,NIL,NIL,4%
+Autosomal Dominant,Myotonic Dystrophy Type 1,DM1,Heterozygous,No,Yes,No,No,No,No,No,Yes,Abortion,NIL,NIL,NIL,50%
+Autosomal Recessive,Cystic Fibrosis,CHTR,Compound Heterozygous,No,No,Yes,No,Yes,No,No,Yes,MTP,NIL,NIL,NIL,25%
+Autosomal Recessive,Osteogenesis imperfecta type XX,MESD,Homozygous,Yes,No,Yes,No,Yes,No,No,Yes,Abortion,NIL,NIL,NIL,25%
+Autosomal Dominant,Developmental Epileptic Encapalopathy,RHOBTB2,Heterozygous,Yes,Yes,Yes,No,No,Yes,No,MTP,NIL,NIL,NIL,NIL,50%
+X-linked Recessive,Duchenne muscular dystrophy,DMD,Homozygous,Yes,No,Yes,No,No,No,No,Yes,NIL,NIL,NIL,NIL,50%
+X-linked Recessive,Duchenne muscular dystrophy,DMD,Homozygous,Yes,No,Yes,No,No,No,No,Yes,NIL,NIL,NIL,NIL,50%
+X-linked Recessive,Duchenne muscular dystrophy,DMD,Homozygous,No,No,Yes,No,No,No,No,Yes,NIL,NIL,NIL,NIL,50%
+X-linked Recessive,Duchenne muscular dystrophy,DMD,Homozygous,No,No,Yes,No,No,No,No,Yes,NIL,NIL,NIL,NIL,50%
+X-linked Recessive,Duchenne muscular dystrophy,DMD,Homozygous,No,No,Yes,No,No,No,No,Yes,NIL,NIL,NIL,NIL,50%
+X-linked Recessive,Duchenne muscular dystrophy,DMD,Homozygous,No,No,Yes,No,No,No,No,Yes,NIL,NIL,NIL,NIL,50%
+X-linked Recessive,Duchenne muscular dystrophy,DMD,Homozygous,No,No,Yes,No,No,No,No,Yes,NIL,NIL,NIL,NIL,50%
+X-linked Recessive,Duchenne muscular dystrophy,DMD,Homozygous,No,No,Yes,No,No,No,No,Yes,NIL,NIL,NIL,NIL,50%
+X-linked Recessive,Duchenne muscular dystrophy,DMD,Heterozygous,No,No,Yes,Yes,No,No,No,Yes,No,NIL,NIL,NIL,50%
+X-linked Recessive,Duchenne muscular dystrophy,DMD,Heterozygous,No,No,Yes,Yes,No,No,No,Yes,No,NIL,NIL,NIL,50%
+X-linked Recessive,Duchenne muscular dystrophy,DMD,Heterozygous,No,No,Yes,Yes,No,No,No,Yes,No,NIL,NIL,NIL,50%
+X-linked Recessive,Duchenne muscular dystrophy,DMD,Heterozygous,No,No,Yes,Yes,No,No,No,Yes,No,NIL,NIL,NIL,50%
+X-linked Recessive,Duchenne muscular dystrophy,DMD,Heterozygous,No,No,Yes,Yes,No,No,No,Yes,No,NIL,NIL,NIL,50%
+X-linked Recessive,Duchenne muscular dystrophy,DMD,Heterozygous,No,No,Yes,Yes,No,No,No,Yes,No,NIL,NIL,NIL,50%
+X-linked Recessive,Duchenne muscular dystrophy,DMD,Heterozygous,No,No,Yes,Yes,No,Yes,No,Yes,Abortion,MTP,NIL,NIL,50%
+X-linked Recessive,Duchenne muscular dystrophy,DMD,Heterozygous,No,No,Yes,Yes,No,Yes,Yes,Yes,NIL,NIL,NIL,NIL,50%
+X-linked Recessive,Duchenne muscular dystrophy,DMD,Homozygous,No,No,Yes,Yes,No,No,No,Abortion,Abortion,NIL,NIL,NIL,50%
+X-linked Recessive,Duchenne muscular dystrophy,DMD,Homozygous,No,No,No,No,No,Yes,Yes,Yes,Yes,Abortion,NIL,NIL,4%
+X-linked Recessive,Duchenne muscular dystrophy,DMD,Homozygous,No,No,No,No,No,Yes,Yes,No,MTP,NIL,NIL,NIL,4%
+X-linked Recessive,Duchenne muscular dystrophy,DMD,Homozygous,No,No,No,No,No,No,No,Yes,No,NIL,NIL,NIL,4%
+X-linked Recessive,Hemolytic Anaemia,G6PD,Hemizygous,No,No,Yes,No,No,No,No,Abortion,Yes,Yes,NIL,NIL,50%
+Autosomal Dominant,Movat Syndrome,ZEB2,Heterozygous,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,NIL,NIL,NIL,50%
+Autosomal Dominant,Cornelia de Lange Syndrome,NIPBL,Heterozygous,Yes,No,No,No,No,No,No,Abortion,MTP,NIL,NIL,NIL,4%
+Autosomal Recessive,Baller-Gerold syndrome,RESQL,Heterozygous,Yes,No,Yes,No,Yes,No,No,Yes,Yes,NIL,NIL,NIL,25%
+Autosomal Dominant,Coffin-Siris,ARID18,Heterozygous,No,Yes,No,No,Yes,No,No,Yes,No,NIL,NIL,NIL,50%
+Autosomal Dominant,Amelogenesis Imperfecta,LAMB3,Heterozygous,No,No,No,Yes,No,No,No,Yes,NIL,NIL,NIL,NIL,50%
+Autosomal Recessive,Mucolipidosis,GNPTG1,Homozygous,Yes,No,Yes,No,Yes,No,No,Yes,Yes,MTP,No,NIL,25%
+Autosomal Recessive,Hereditary Spherocytosis ,SPTA1,Homozygous,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,MTP,Yes,25%
+Autosomal Recessive,Delta Beta-thalassemia,Hbb,Compound Heterozygous,No,No,Yes,No,Yes,No,No,Yes,No,NIL,NIL,NIL,25%
+Autosomal Recessive,Delta Beta-thalassemia,Hbb,Compound Heterozygous,No,No,Yes,No,Yes,No,No,No,Yes,MTP,NIL,NIL,25%
+Autosomal Recessive,Delta Beta-thalassemia,Hbb,Compound Heterozygous,No,No,Yes,No,Yes,No,No,Yes,No,No,NIL,NIL,25%
+Autosomal Recessive,Delta Beta-thalassemia,Hbb,Compound Heterozygous,No,No,Yes,No,Yes,No,Yes,Yes,Yes,NIL,NIL,NIL,25%
+Autosomal Recessive,Delta Beta-thalassemia,Hbb,Compound Heterozygous,No,No,Yes,No,Yes,No,Yes,No,Yes,NIL,NIL,NIL,25%
+Autosomal Recessive,Methylmalonic acidemia,MMUT,Homozygous,Yes,No,Yes,No,Yes,No,No,Yes,NIL,NIL,NIL,NIL,25%
+Autosomal Recessive,Glutaric Acidemia Type 1,GCDH,Homozygous,Yes,No,Yes,No,Yes,No,No,Yes,MTP,NIL,NIL,NIL,25%
+Autosomal Recessive,Glutaric Acidemia Type 2,GCDH,Homozygous,Yes,No,Yes,No,Yes,No,No,Yes,Yes,NIL,NIL,NIL,25%
+Autosomal Recessive,Glutaric Acidemia Type 3,GCDH,Compound Heterozygous,No,No,Yes,No,Yes,No,No,Yes,No,NIL,NIL,NIL,25%
+Autosomal Dominant,Tuberous Sclerosis Complex,TSC1,Compound Heterozygous,No,Yes,Yes,No,No,No,Yes,Yes,No,NIL,NIL,NIL,50%
+Autosomal Recessive,Sickle cell anemia,Hbb,Compound Heterozygous,Yes,No,Yes,No,Yes,No,Yes,Yes,NIL,NIL,NIL,NIL,25%
+Autosomal Recessive,Sickle cell anemia,Hbb,Compound Heterozygous,Yes,No,Yes,No,Yes,No,No,Yes,MTP,NIL,NIL,NIL,25%
+Autosomal Recessive,Sickle cell anemia,Hbb,Compound Heterozygous,No,No,Yes,No,Yes,No,No,Yes,MTP,Yes,NIL,NIL,25%
+Autosomal Recessive,Sickle cell anemia,Hbb,Compound Heterozygous,No,No,Yes,No,Yes,No,No,Yes,MTP,No,NIL,NIL,25%
+Autosomal Recessive,Sickle cell anemia,Hbb,Compound Heterozygous,No,No,Yes,No,Yes,No,No,Yes,NIL,NIL,NIL,NIL,25%
+Autosomal Recessive,Mucopolysaccharidosis Type 1,IDUA,Compound Heterozygous,Yes,No,Yes,No,Yes,No,No,Yes,No,NIL,NIL,NIL,25%
+Autosomal Recessive,Mucopolysaccharidosis Type 1,IDUA,Compound Heterozygous,No,No,Yes,No,Yes,No,No,Yes,NIL,NIL,NIL,NIL,25%
+Autosomal Recessive,Mucopolysaccharidosis Type 1,IDUA,Compound Heterozygous,No,No,Yes,No,Yes,No,No,No,Yes,MTP,NIL,NIL,25%
+Autosomal Recessive,Mucopolysaccharidosis Type 3,NAGLU,Compound Heterozygous,No,No,Yes,No,Yes,No,No,Yes,Yes,NIL,NIL,NIL,25%
+Autosomal Recessive,Mucopolysaccharidosis Type 3,NAGLU,Compound Heterozygous,No,No,Yes,No,Yes,No,No,No,Yes,NIL,NIL,NIL,25%
+Autosomal Recessive,Mucopolysaccharidosis Type 4,GALNS,Homozygous,Yes,No,Yes,No,Yes,No,No,Yes,NIL,NIL,NIL,NIL,25%
+Autosomal Recessive,Mucopolysaccharidosis Type 4,GALNS,Homozygous,Yes,No,Yes,No,Yes,No,No,Yes,MTP,NIL,NIL,NIL,25%
+Autosomal Recessive,Mucopolysaccharidosis Type 4,GALNS,Homozygous,No,No,Yes,No,Yes,No,No,Yes,No,NIL,NIL,NIL,25%
+Autosomal Recessive,Mucopolysaccharidosis Type 4,GALNS,Homozygous,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,MTP,NIL,25%
+Autosomal Recessive,Sickle cell Anemia,HBB,Compound Heterozygous,Yes,No,No,Yes,No,No,No,Yes,Yes,No,NIL,NIL,50%
+Autosomal Recessive,Sickle cell Anemia,HBB,Compound Heterozygous,Yes,No,No,Yes,No,No,No,Yes,Yes,No,NIL,NIL,50%
+Autosomal Recessive,Sickle cell Anemia,HBB,Compound Heterozygous,Yes,No,Yes,No,No,No,No,Yes,Yes,No,NIL,NIL,50%
+Autosomal Recessive,Sickle cell Anemia,HBB,Compound Heterozygous,Yes,No,Yes,Yes,No,No,No,Yes,Yes,No,NIL,NIL,50%
+Autosomal Dominant,Developmental and epileptic encephalopathy Type 7,KCNQ2,Heterozygous,No,No,No,No,No,No,No,Yes,NIL,NIL,NIL,NIL,50%
+Autosomal Recessive,Beta thalassemia,Hbb,Homozygous,Yes,No,Yes,No,Yes,No,No,No,No,NIL,NIL,NIL,25%
+Autosomal Recessive,Beta thalassemia,Hbb,Homozygous,Yes,No,Yes,No,Yes,No,No,Yes,NIL,NIL,NIL,NIL,25%
+Autosomal Recessive,Beta thalassemia,Hbb,Homozygous,Yes,No,Yes,No,Yes,Yes,No,Yes,No,NIL,NIL,NIL,25%
+Autosomal Recessive,Beta thalassemia,Hbb,Homozygous,No,No,Yes,No,Yes,No,No,Yes,NIL,NIL,NIL,NIL,25%
+Autosomal Recessive,Beta thalassemia,Hbb,Homozygous,No,No,Yes,No,Yes,No,No,Yes,NIL,NIL,NIL,NIL,25%
+Autosomal Recessive,Beta thalassemia,Hbb,Homozygous,No,No,Yes,No,Yes,No,No,Yes,NIL,NIL,NIL,NIL,25%
+Autosomal Recessive,Beta thalassemia,Hbb,Compound Heterozygous,No,No,Yes,No,Yes,No,No,No,Yes,NIL,NIL,NIL,25%
+Autosomal Recessive,Beta thalassemia,Hbb,Compound Heterozygous,No,No,Yes,No,Yes,No,No,Yes,Yes,NIL,NIL,NIL,25%
+Autosomal Recessive,Beta thalassemia,Hbb,Compound Heterozygous,No,No,Yes,No,Yes,No,No,Yes,MTP,NIL,NIL,NIL,25%
+Autosomal Recessive,Beta thalassemia,Hbb,Compound Heterozygous,No,No,Yes,No,Yes,No,No,No,No,No,NIL,NIL,25%
+Autosomal Recessive,Wilson disease,ATP7B,Homozygous,Yes,No,Yes,No,Yes,No,No,No,Yes,NIL,NIL,NIL,25%
+Autosomal Recessive,Wilson disease,ATP7B,Homozygous,Yes,No,Yes,No,Yes,No,No,Yes,NIL,NIL,NIL,NIL,25%
+Autosomal Recessive,Wilson disease,ATP7B,Homozygous,No,No,Yes,No,Yes,No,No,No,No,Yes,NIL,NIL,25%
+Autosomal Recessive,Wilson disease,ATP7B,Homozygous,No,No,Yes,No,Yes,No,No,Yes,No,NIL,NIL,NIL,25%
+Autosomal Recessive,Wilson disease,ATP7B,Homozygous,No,No,Yes,No,Yes,No,No,NIL,NIL,NIL,NIL,NIL,25%
+Autosomal Recessive,Wilson disease,ATP7B,Homozygous,No,No,Yes,No,Yes,No,No,No,NIL,NIL,NIL,NIL,25%
+Autosomal Recessive,Wilson disease,ATP7B,Homozygous,No,No,Yes,No,Yes,No,No,No,Yes,NIL,NIL,NIL,25%
+Autosomal Recessive,Wilson disease,ATP7B,Homozygous,No,No,Yes,No,Yes,No,No,No,No,NIL,NIL,NIL,25%
+Autosomal Recessive,Wilson disease,ATP7B,Homozygous,No,No,Yes,No,Yes,No,No,No,No,NIL,NIL,NIL,25%
+Autosomal Recessive,Wilson disease,ATP7B,Homozygous,No,No,Yes,No,Yes,No,No,No,No,NIL,NIL,NIL,25%
+Autosomal Recessive,Osteogenesis imperfecta type 8,LEPRE1,Homozygous,No,No,Yes,No,Yes,No,No,Yes,No,NIL,NIL,NIL,25%
+Autosomal Recessive,Hydroxykynureninuria,KYNU,Compound Heterozygous,No,No,Yes,No,Yes,No,No,Yes,Yes,NIL,NIL,NIL,25%
+Autosomal Recessive,"Fructose-1,6-bisphosphatase deficiency",FBP1,Homozygous,Yes,No,Yes,No,Yes,No,No,No,Yes,NIL,NIL,NIL,25%
+Autosomal Recessive,Osteogenesis imperfecta type 8,LEPRE1,Homozygous,No,No,Yes,No,Yes,No,No,Abortion,Abortion,MTP,NIL,NIL,25%
+Autosomal Recessive,Noonan syndrome type 2,LZTR1,Heterozygous,No,No,Yes,No,Yes,No,No,MTP,NIL,NIL,NIL,NIL,25%
+Autosomal Dominant,Osteogenesis imperfecta type 2,COL1A2,Heterozygous,No,No,No,Yes,Yes,Yes,No,Yes,No,NIL,NIL,NIL,50%
+Autosomal Recessive,Osteogenesis imperfecta type 9,PPIB,Heterozygous,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,NIL,NIL,25%
+Autosomal Dominant,Osteogenesis imperfecta type 1,COL1A1,Heterozygous,No,Yes,Yes,No,No,No,No,Yes,Yes,NIL,NIL,NIL,50%
+Autosomal Dominant,Osteogenesis imperfecta type 2,COL1A1,Heterozygous,No,No,No,No,Yes,No,No,No,Yes,NIL,NIL,NIL,50%
+Autosomal Dominant,Osteogenesis imperfecta type 3,COL1A1,Heterozygous,No,No,Yes,No,No,No,No,Yes,NIL,NIL,NIL,NIL,50%
+Autosomal Dominant,Osteogenesis imperfecta type 4,COL1A1,Heterozygous,No,No,No,No,Yes,No,No,Yes,No,NIL,NIL,NIL,50%
+Autosomal Recessive,Dystrophic epidermolysis bullosa (DEB),COL7A1,Compound Heterozygous,No,No,Yes,No,Yes,No,No,Yes,Yes,NIL,NIL,NIL,25%
+Autosomal Recessive,Dystrophic epidermolysis bullosa (DEB),COL7A1,Compound Heterozygous,No,No,Yes,No,Yes,No,No,Yes,NIL,NIL,NIL,NIL,25%
+Autosomal Recessive,Dystrophic epidermolysis bullosa (DEB),COL7A1,Homozygous,Yes,No,Yes,No,Yes,No,No,Yes,NIL,NIL,NIL,NIL,25%
+Autosomal Recessive,Methionine adeNosyltransferase I/III deficiency,MAT1A,Compound Heterozygous,No,No,Yes,No,Yes,No,No,Yes,NIL,NIL,NIL,NIL,25%
+Autosomal Recessive,Limb-girdle muscular dystrophy type 2,CAPN3,Homozygous,Yes,No,No,No,No,No,No,Yes,No,NIL,NIL,NIL,25%
+Autosomal Recessive,Cystic fibrosis,CFTR,Homozygous,Yes,No,Yes,No,Yes,No,No,Yes,MTP,NIL,NIL,NIL,25%
+Autosomal Recessive,Cystic fibrosis,CFTR,Homozygous,Yes,No,Yes,No,Yes,No,No,No,MTP,NIL,NIL,NIL,25%
+Autosomal Recessive,Cystic fibrosis,CFTR,Compound Heterozygous,No,No,Yes,No,Yes,No,No,Yes,NIL,NIL,NIL,NIL,25%
+Autosomal Recessive,Cystic fibrosis,CFTR,Compound Heterozygous,No,No,Yes,No,Yes,No,No,Yes,NIL,NIL,NIL,NIL,25%
+Autosomal Recessive,Intellectual developmental disorder with abNormal behavior,PUS7,Homozygous,No,No,Yes,No,Yes,No,No,Yes,Yes,NIL,NIL,NIL,25%
+Autosomal Dominant,Mowat-Wilson syndrome,ZEB2,Heterozygous,No,No,No,No,Yes,Yes,No,Yes,Yes,NIL,NIL,NIL,50%
